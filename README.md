@@ -2,7 +2,7 @@
 
 # Weather App
 
-Weather App is a web application that allows users to check the weather information and latest news for a specific city. It also includes a visual representation of the geographical locations of the entered cities on a map.It shows the temparature and pressure, wind speed and etc.
+Weather App is a web application that allows users to check the weather information and latest news for a specific city.It shows the temparature and pressure, wind speed and etc.
 
 ## Features
 
